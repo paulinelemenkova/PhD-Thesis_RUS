@@ -1,0 +1,3508 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.14)  3 MAY 2021 19:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**synopsis_Lemenkova.tex
+(./synopsis_Lemenkova.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/nag/nag.sty
+Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
+\c@nag@c=\count179
+\c@nag@sins=\count180
+Package nag Info: Loaded nag-l2tabu.cfg  on input line 552.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/nag/nag-l2tabu.cfg
+File: nag-l2tabu.cfg 2010/05/17 v2.11 l2tabu rules for nag.sty (ulmi)
+)
+Package nag Info: Loaded nag-orthodox.cfg  on input line 552.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/nag/nag-orthodox.cfg
+File: nag-orthodox.cfg 2006/04/19 v1.8 strict rules for nag.sty (ulmi)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2021/03/23 v3.7o configurable book, report, article docu
+ment class
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count181
+\c@@memmarkcntra=\count182
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count183
+\memPD=\dimen138
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count184
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count192
+\c@@ppsaveapp=\count193
+\ragrparindent=\dimen139
+\everylistparindent=\dimen140
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks15
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen141
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count194
+\c@poemline=\count195
+\c@modulo@vs=\count196
+\c@memfvsline=\count197
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen142
+\c@verse=\count198
+\c@chrsinstr=\count199
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count266
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box47
+\extrarowheight=\dimen144
+\NC@list=\toks16
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box48
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count267
+\TX@ftn=\toks17
+)
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count268
+\@cmidlb=\count269
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count270
+\@lastruleclass=\count271
+\@thisrulewidth=\dimen162
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count272
+\@linestogo=\count273
+\@cellstogo=\count274
+\@cellsincolumn=\count275
+\crtok=\toks18
+\@mincolumnwidth=\dimen163
+\c@newflo@tctr=\count276
+\mem@margin@floatbox=\box49
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen164
+\c@@contsubnum=\count277
+\m@mscap@capbox=\box50
+\m@mscap@fbox=\box51
+\sidecapsep=\dimen165
+\sidecapwidth=\dimen166
+\m@m@tempdima=\dimen167
+\m@mscapraise=\dimen168
+\sidecapraise=\dimen169
+\m@mscapmainwidth=\dimen170
+\m@mscaplkern=\dimen171
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7650.
+LaTeX Info: Redefining \emph on input line 7658.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen172
+\cftbooknumwidth=\dimen173
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen174
+\c@maxsecnumdepth=\count278
+\bibindent=\dimen175
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks19
+\@indexbox=\insert252
+\glossarycolsep=\dimen176
+\glossaryrule=\dimen177
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count279
+\m@m@h=\dimen178
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count280
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count281
+\c@pagenoteshadow=\count282
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks20
+\afterevery@verbatim=\toks21
+\verbatim@line=\toks22
+\tab@position=\count283
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count284
+\c@bvlinectr=\count285
+\bvnumlength=\skip184
+\fb@frw=\dimen179
+\fb@frh=\dimen180
+\FrameRule=\dimen181
+\FrameSep=\dimen182
+\c@cp@cntr=\count286
+\c@ism@mctr=\count287
+\c@xsm@mctr=\count288
+\c@csm@mctr=\count289
+\c@ksm@mctr=\count290
+\c@xksm@mctr=\count291
+\c@cksm@mctr=\count292
+\c@msm@mctr=\count293
+\c@xmsm@mctr=\count294
+\c@cmsm@mctr=\count295
+\c@bsm@mctr=\count296
+\c@workm@mctr=\count297
+\c@sheetsequence=\count298
+\c@lastsheet=\count299
+\c@lastpage=\count300
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count301
+\c@lofdepth=\count302
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count303
+\c@lotdepth=\count304
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(./common/setup.tex
+\c@draft=\count305
+\c@showmarkup=\count306
+\c@usealtfont=\count307
+\c@fontfamily=\count308
+\c@bibliosel=\count309
+\c@mediadisplay=\count310
+\c@imgprecompile=\count311
+) (./common/packages.tex
+(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count312
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count313
+\Gm@cntv=\count314
+\c@Gm@tempcnt=\count315
+\Gm@bindingoffset=\dimen183
+\Gm@wd@mp=\dimen184
+\Gm@odd@mp=\dimen185
+\Gm@even@mp=\dimen186
+\Gm@layoutwidth=\dimen187
+\Gm@layoutheight=\dimen188
+\Gm@layouthoffset=\dimen189
+\Gm@layoutvoffset=\dimen190
+\Gm@dimlist=\toks24
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip191
+\thm@postskip=\skip192
+\thm@headsep=\skip193
+\dth@everypar=\toks30
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip194
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen191
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen192
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count316
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count317
+\leftroot@=\count318
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count319
+\DOTSCASE@=\count320
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen193
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count321
+\c@MaxMatrixCols=\count322
+\dotsspace@=\muskip16
+\c@parentequation=\count323
+\dspbrk@lvl=\count324
+\tag@help=\toks32
+\row@=\count325
+\column@=\count326
+\maxfields@=\count327
+\andhelp@=\toks33
+\eqnshift@=\dimen194
+\alignsep@=\dimen195
+\tagshift@=\dimen196
+\tagwidth@=\dimen197
+\totwidth@=\dimen198
+\lineht@=\dimen199
+\@envbody=\toks34
+\multlinegap=\skip195
+\multlinetaggap=\skip196
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks36
+\minaw@=\dimen256
+\bigaw@=\dimen257
+\minCDarrowwidth=\dimen258
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2021/03/18 v1.25 mathematical typesetting tools
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count328
+\calc@Bcount=\count329
+\calc@Adimen=\dimen259
+\calc@Bdimen=\dimen260
+\calc@Askip=\skip197
+\calc@Bskip=\skip198
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count330
+\calc@Cskip=\skip199
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count331
+\l_MT_multwidth_dim=\dimen261
+\origjot=\skip256
+\l_MT_shortvdotswithinadjustabove_dim=\dimen262
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen263
+\l_MT_above_intertext_sep=\dimen264
+\l_MT_below_intertext_sep=\dimen265
+\l_MT_above_shortintertext_sep=\dimen266
+\l_MT_below_shortintertext_sep=\dimen267
+\xmathstrut@box=\box54
+\xmathstrut@dim=\dimen268
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count332
+\l__pdf_internal_box=\box55
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen269
+\Gin@req@width=\dimen270
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2021-03-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen271
+\l__xtemplate_tmp_int=\count333
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip257
+)
+Package: xfrac 2021-03-12 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box56
+\l__xfrac_tmp_box=\box57
+\l__xfrac_denominator_bot_sep_dim=\dimen272
+\l__xfrac_numerator_bot_sep_dim=\dimen273
+\l__xfrac_numerator_top_sep_dim=\dimen274
+\l__xfrac_slash_left_sep_dim=\dimen275
+\l__xfrac_slash_right_sep_dim=\dimen276
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 80.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
+\l__siunitx_tmp_box=\box58
+\l__siunitx_tmp_dim=\dimen277
+\l__siunitx_tmp_int=\count334
+\l__siunitx_number_mantissa_length_int=\count335
+\l__siunitx_number_uncert_length_int=\count336
+\l__siunitx_round_int=\count337
+\l__siunitx_process_decimal_int=\count338
+\l__siunitx_process_uncertainty_int=\count339
+\l__siunitx_process_fixed_int=\count340
+\l__siunitx_process_integer_min_int=\count341
+\l__siunitx_process_precision_int=\count342
+\l__siunitx_group_min_int=\count343
+\l__siunitx_angle_marker_box=\box59
+\l__siunitx_angle_unit_box=\box60
+\l__siunitx_angle_marker_dim=\dimen278
+\l__siunitx_angle_unit_dim=\dimen279
+\l__siunitx_unit_int=\count344
+\l__siunitx_unit_denominator_int=\count345
+\l__siunitx_unit_numerator_int=\count346
+\l__siunitx_unit_prefix_int=\count347
+\l__siunitx_unit_prefix_base_int=\count348
+\l__siunitx_unit_prefix_gram_int=\count349
+\l__siunitx_number_product_int=\count350
+\c__siunitx_one_fill_skip=\skip258
+\l__siunitx_table_unit_align_skip=\skip259
+\l__siunitx_table_exponent_dim=\dimen280
+\l__siunitx_table_integer_dim=\dimen281
+\l__siunitx_table_mantissa_dim=\dimen282
+\l__siunitx_table_marker_dim=\dimen283
+\l__siunitx_table_result_dim=\dimen284
+\l__siunitx_table_uncert_dim=\dimen285
+\l__siunitx_table_fill_pre_dim=\dimen286
+\l__siunitx_table_fill_post_dim=\dimen287
+\l__siunitx_table_fill_mid_dim=\dimen288
+\l__siunitx_table_pre_box=\box61
+\l__siunitx_table_post_box=\box62
+\l__siunitx_table_mantissa_box=\box63
+\l__siunitx_table_result_box=\box64
+\l__siunitx_table_number_align_skip=\skip260
+\l__siunitx_table_text_align_skip=\skip261
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+)
+(./siunitx.cfg
+File: siunitx.cfg 
+))
+subequations patched
+\curtextsize=\skip262
+\bigtextsize=\skip263
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdfx/glyphtounicode-cmr.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cmap/cmap.sty
+Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
+12.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks37
+\inpenc@posthook=\toks38
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count351
+\U@D=\dimen289
+\l@babelnohyphens=\language87
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count352
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks39
+\minrowclearance=\skip264
+)
+\rownum=\count353
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip265
+\LTright=\skip266
+\LTpre=\skip267
+\LTpost=\skip268
+\LTchunksize=\count354
+\LTcapwidth=\dimen290
+\LT@head=\box65
+\LT@firsthead=\box66
+\LT@foot=\box67
+\LT@lastfoot=\box68
+\LT@cols=\count355
+\LT@rows=\count356
+\c@LT@tables=\count357
+\c@LT@chunks=\count358
+\LT@p@ftn=\toks40
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+\LTcapskip=\skip269
+\LTcapleft=\skip270
+\LTcapright=\skip271
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip272
+\multirow@cntb=\count359
+\multirow@dima=\skip273
+\bigstrutjot=\dimen291
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen292
+\c@nlinenum=\count360
+\TeXr@lab=\toks41
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box69
+\sift@deathcycles=\count361
+\@vwid@loff=\dimen293
+\@vwid@roff=\dimen294
+)
+\c@taburow=\count362
+\tabu@nbcols=\count363
+\tabu@cnt=\count364
+\tabu@Xcol=\count365
+\tabu@alloc=\count366
+\tabu@nested=\count367
+\tabu@target=\dimen295
+\tabu@spreadtarget=\dimen296
+\tabu@naturalX=\dimen297
+\tabucolX=\dimen298
+\tabu@Xsum=\dimen299
+\extrarowdepth=\dimen300
+\abovetabulinesep=\dimen301
+\belowtabulinesep=\dimen302
+\tabustrutrule=\dimen303
+\tabu@thebody=\toks42
+\tabu@footnotes=\toks43
+\tabu@box=\box70
+\tabu@arstrutbox=\box71
+\tabu@hleads=\box72
+\tabu@vleads=\box73
+\tabu@cellskip=\skip274
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count368
+\TY@linewidth=\dimen304
+\tymin=\dimen305
+\tymax=\dimen306
+\TY@tablewidth=\dimen307
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box74
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/soulutf8/soulutf8.sty
+Package: soulutf8 2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks44
+\SOUL@lasttoken=\toks45
+\SOUL@cmds=\toks46
+\SOUL@buffer=\toks47
+\SOUL@token=\toks48
+\SOUL@spaceskip=\skip275
+\SOUL@ttwidth=\dimen308
+\SOUL@uldp=\dimen309
+\SOUL@ulht=\dimen310
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/was/icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/impnattypo/impnattypo.sty
+Package: impnattypo 2019/03/04 1.5 Typographic utilities inspired by the French
+ Imprimerie Nationale
+Package: impnattypo 
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks49
+\pgfutil@tempdima=\dimen311
+\pgfutil@tempdimb=\dimen312
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box75
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks50
+\pgfkeys@temptoks=\toks51
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks52
+))
+\pgf@x=\dimen313
+\pgf@y=\dimen314
+\pgf@xa=\dimen315
+\pgf@ya=\dimen316
+\pgf@xb=\dimen317
+\pgf@yb=\dimen318
+\pgf@xc=\dimen319
+\pgf@yc=\dimen320
+\pgf@xd=\dimen321
+\pgf@yd=\dimen322
+\w@pgf@writea=\write5
+\r@pgf@reada=\read4
+\c@pgf@counta=\count369
+\c@pgf@countb=\count370
+\c@pgf@countc=\count371
+\c@pgf@countd=\count372
+\t@pgf@toka=\toks53
+\t@pgf@tokb=\toks54
+\t@pgf@tokc=\toks55
+\pgf@sys@id@count=\count373
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count374
+\pgfsyssoftpath@bigbuffer@items=\count375
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen323
+\pgfmath@count=\count376
+\pgfmath@box=\box76
+\pgfmath@toks=\toks56
+\pgfmath@stack@operand=\toks57
+\pgfmath@stack@operation=\toks58
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count377
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen324
+\pgf@picmaxx=\dimen325
+\pgf@picminy=\dimen326
+\pgf@picmaxy=\dimen327
+\pgf@pathminx=\dimen328
+\pgf@pathmaxx=\dimen329
+\pgf@pathminy=\dimen330
+\pgf@pathmaxy=\dimen331
+\pgf@xx=\dimen332
+\pgf@xy=\dimen333
+\pgf@yx=\dimen334
+\pgf@yy=\dimen335
+\pgf@zx=\dimen336
+\pgf@zy=\dimen337
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen338
+\pgf@path@lasty=\dimen339
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen340
+\pgf@shorten@start@additional=\dimen341
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box77
+\pgf@hbox=\box78
+\pgf@layerbox@main=\box79
+\pgf@picture@serial@count=\count378
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen342
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen343
+\pgf@pt@y=\dimen344
+\pgf@pt@temp=\dimen345
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen346
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen347
+\pgf@sys@shading@range@num=\count379
+\pgf@shadingcount=\count380
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box80
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box81
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen348
+\pgf@nodesepend=\dimen349
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen350
+\pgffor@skip=\dimen351
+\pgffor@stack=\toks59
+\pgffor@toks=\toks60
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count381
+\pgfplotmarksize=\dimen352
+)
+\tikz@lastx=\dimen353
+\tikz@lasty=\dimen354
+\tikz@lastxsaved=\dimen355
+\tikz@lastysaved=\dimen356
+\tikz@lastmovetox=\dimen357
+\tikz@lastmovetoy=\dimen358
+\tikzleveldistance=\dimen359
+\tikzsiblingdistance=\dimen360
+\tikz@figbox=\box82
+\tikz@figbox@bg=\box83
+\tikz@tempbox=\box84
+\tikz@tempbox@bg=\box85
+\tikztreelevel=\count382
+\tikznumberofchildren=\count383
+\tikznumberofcurrentchild=\count384
+\tikz@fig@count=\count385
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count386
+\pgfmatrixcurrentcolumn=\count387
+\pgf@matrix@numberofcolumns=\count388
+)
+\tikz@expandcount=\count389
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\arrowsize=\dimen361
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen362
+\Hy@linkcounter=\count390
+\Hy@pagecounter=\count391
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count392
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3167.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count393
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip20
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen363
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count394
+\Field@Width=\dimen364
+\Fld@charsize=\dimen365
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count395
+\c@Item=\count396
+\c@Hfootnote=\count397
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2019/10/24 v1.18 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count398
+\c@Hpagenote=\count399
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count400
+\c@bookmark@seq@number=\count401
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip276
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen366
+\captionmargin@=\dimen367
+\captionwidth=\dimen368
+\caption@tempdima=\dimen369
+\caption@indent=\dimen370
+\caption@parindent=\dimen371
+\caption@hangindent=\dimen372
+Package caption Info: memoir document class detected.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption-memoir.sto
+File: caption-memoir.sto 2020/10/10 v2.1 Adaption of the caption package to the
+ memoir document class (AR)
+))
+\c@caption@flags=\count402
+\c@continuedfloat=\count403
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen373
+\caption@adjustwidth@linewidth=\dimen374
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count404
+\c@subtable=\count405
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen375
+\ESO@tempdimb=\dimen376
+)
+\AM@pagewidth=\dimen377
+\AM@pageheight=\dimen378
+\AM@fboxrule=\dimen379
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count406
+\AM@pagebox=\box86
+\AM@global@opts=\toks61
+\AM@pagecnt=\count407
+\AM@toc@title=\toks62
+\c@AM@survey=\count408
+\AM@templatesizebox=\box87
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/totalcount/totalcount.sty
+Package: totalcount 2018/01/21 v1.0a Total values of counters (AR)
+\c@totalcount@figure=\count409
+\c@totalcount@table=\count410
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/totcount/totcount.sty
+Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX c
+ounters
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/totpages/totpages.sty
+Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/everyshi-ltx.sty
+Package: everyshi-ltx 2020/08/17 v1.0a Emulation of the original everyshi packa
+ge
+with kernel methods
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen380
+\WF@size=\dimen381
+\c@WF@wrappedlines=\count411
+\WF@box=\box88
+\WF@everypar=\toks63
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+LaTeX Info: Redefining \Cref on input line 925.
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `amsthm' support loaded on input line 3026.
+Package cleveref Info: `aliascnt' support loaded on input line 3193.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+))
+(./Synopsis/synpackages.tex
+(/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip277
+\enit@outerparindent=\dimen382
+\enit@toks=\toks64
+\enit@inbox=\box89
+\enit@count@id=\count412
+\enitdp@description=\count413
+))
+(./Synopsis/userpackages.tex) (./common/newnames.tex) (./Synopsis/setup.tex
+\c@showperssign=\count414
+\c@showsecrsign=\count415
+\c@showopplead=\count416
+\c@usefootcite=\count417
+\c@bibgrouped=\count418
+)
+(./common/data.tex) (./common/fonts.tex) (./common/styles.tex
+Package hyperref Info: Option `linktocpage' set `true' on input line 169.
+Package hyperref Info: Option `plainpages' set `false' on input line 169.
+Package hyperref Info: Option `colorlinks' set `true' on input line 169.
+
+Excluding comment 'commentbox') (./Synopsis/synstyles.tex)
+(./Synopsis/userstyles.tex) (./biblio/biblatex.tex
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+\csq@reset=\count419
+\csq@gtype=\count420
+\csq@glevel=\count421
+\csq@qlevel=\count422
+\csq@maxlvl=\count423
+\csq@tshold=\count424
+\csq@ltx@everypar=\toks65
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count425
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count426
+\c@listtotal=\count427
+\c@listcount=\count428
+\c@liststart=\count429
+\c@liststop=\count430
+\c@citecount=\count431
+\c@citetotal=\count432
+\c@multicitecount=\count433
+\c@multicitetotal=\count434
+\c@instcount=\count435
+\c@maxnames=\count436
+\c@minnames=\count437
+\c@maxitems=\count438
+\c@minitems=\count439
+\c@citecounter=\count440
+\c@maxcitecounter=\count441
+\c@savedcitecounter=\count442
+\c@uniquelist=\count443
+\c@uniquename=\count444
+\c@refsection=\count445
+\c@refsegment=\count446
+\c@maxextratitle=\count447
+\c@maxextratitleyear=\count448
+\c@maxextraname=\count449
+\c@maxextradate=\count450
+\c@maxextraalpha=\count451
+\c@abbrvpenalty=\count452
+\c@highnamepenalty=\count453
+\c@lownamepenalty=\count454
+\c@maxparens=\count455
+\c@parenlevel=\count456
+\blx@tempcnta=\count457
+\blx@tempcntb=\count458
+\blx@tempcntc=\count459
+\blx@maxsection=\count460
+\blx@maxsegment@0=\count461
+\blx@notetype=\count462
+\blx@parenlevel@text=\count463
+\blx@parenlevel@foot=\count464
+\blx@sectionciteorder@0=\count465
+\blx@entrysetcounter=\count466
+\blx@biblioinstance=\count467
+\labelnumberwidth=\skip278
+\labelalphawidth=\skip279
+\biblabelsep=\skip280
+\bibnamesep=\skip281
+\bibinitsep=\skip282
+\bibparsep=\skip283
+\bibhang=\skip284
+\blx@bcfin=\read5
+\blx@bcfout=\write6
+\blx@langwohyphens=\language88
+\c@mincomprange=\count468
+\c@maxcomprange=\count469
+\c@mincompwidth=\count470
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'gost-numeric.dbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-gost/gost-numeric.dbx
+File: gost-numeric.dbx 2020/10/28 v1.21 biblatex-gost data model
+Package biblatex Info: Trying to load biblatex-gost data model...
+Package biblatex Info: ... file 'biblatex-gost.dbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.dbx
+File: biblatex-gost.dbx 2020/10/28 v1.21 biblatex-gost data model
+))
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count471
+\c@savedafterword=\count472
+\c@annotator=\count473
+\c@savedannotator=\count474
+\c@author=\count475
+\c@savedauthor=\count476
+\c@bookauthor=\count477
+\c@savedbookauthor=\count478
+\c@commentator=\count479
+\c@savedcommentator=\count480
+\c@editor=\count481
+\c@savededitor=\count482
+\c@editora=\count483
+\c@savededitora=\count484
+\c@editorb=\count485
+\c@savededitorb=\count486
+\c@editorc=\count487
+\c@savededitorc=\count488
+\c@foreword=\count489
+\c@savedforeword=\count490
+\c@holder=\count491
+\c@savedholder=\count492
+\c@introduction=\count493
+\c@savedintroduction=\count494
+\c@namea=\count495
+\c@savednamea=\count496
+\c@nameb=\count497
+\c@savednameb=\count498
+\c@namec=\count499
+\c@savednamec=\count500
+\c@translator=\count501
+\c@savedtranslator=\count502
+\c@shortauthor=\count503
+\c@savedshortauthor=\count504
+\c@shorteditor=\count505
+\c@savedshorteditor=\count506
+\c@booktranslator=\count507
+\c@savedbooktranslator=\count508
+\c@bookcommentator=\count509
+\c@savedbookcommentator=\count510
+\c@bookannotator=\count511
+\c@savedbookannotator=\count512
+\c@bookintroduction=\count513
+\c@savedbookintroduction=\count514
+\c@bookforeword=\count515
+\c@savedbookforeword=\count516
+\c@bookafterword=\count517
+\c@savedbookafterword=\count518
+\c@labelname=\count519
+\c@savedlabelname=\count520
+\c@institution=\count521
+\c@savedinstitution=\count522
+\c@lista=\count523
+\c@savedlista=\count524
+\c@listb=\count525
+\c@savedlistb=\count526
+\c@listc=\count527
+\c@savedlistc=\count528
+\c@listd=\count529
+\c@savedlistd=\count530
+\c@liste=\count531
+\c@savedliste=\count532
+\c@listf=\count533
+\c@savedlistf=\count534
+\c@location=\count535
+\c@savedlocation=\count536
+\c@organization=\count537
+\c@savedorganization=\count538
+\c@origlocation=\count539
+\c@savedoriglocation=\count540
+\c@origpublisher=\count541
+\c@savedorigpublisher=\count542
+\c@publisher=\count543
+\c@savedpublisher=\count544
+\c@language=\count545
+\c@savedlanguage=\count546
+\c@origlanguage=\count547
+\c@savedoriglanguage=\count548
+\c@bookoriglanguage=\count549
+\c@savedbookoriglanguage=\count550
+\c@specdata=\count551
+\c@savedspecdata=\count552
+\c@credits=\count553
+\c@savedcredits=\count554
+\c@bookcredits=\count555
+\c@savedbookcredits=\count556
+\c@editioncredits=\count557
+\c@savededitioncredits=\count558
+\c@pageref=\count559
+\c@savedpageref=\count560
+\shorthandwidth=\skip285
+\shortjournalwidth=\skip286
+\shortserieswidth=\skip287
+\shorttitlewidth=\skip288
+\shortauthorwidth=\skip289
+\shorteditorwidth=\skip290
+\locallabelnumberwidth=\skip291
+\locallabelalphawidth=\skip292
+\localshorthandwidth=\skip293
+\localshortjournalwidth=\skip294
+\localshortserieswidth=\skip295
+\localshorttitlewidth=\skip296
+\localshortauthorwidth=\skip297
+\localshorteditorwidth=\skip298
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count561
+\c@textcitetotal=\count562
+\c@textcitemaxnames=\count563
+\c@biburlbigbreakpenalty=\count564
+\c@biburlbreakpenalty=\count565
+\c@biburlnumpenalty=\count566
+\c@biburlucpenalty=\count567
+\c@biburllcpenalty=\count568
+\biburlbigskip=\muskip21
+\biburlnumskip=\muskip22
+\biburlucskip=\muskip23
+\biburllcskip=\muskip24
+\c@smartand=\count569
+)
+Package biblatex Info: Trying to load bibliography style 'gost-numeric'...
+Package biblatex Info: ... file 'gost-numeric.bbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-gost/gost-numeric.bbx
+File: gost-numeric.bbx 2020/10/28 v1.21 biblatex-gost styles
+Package biblatex Info: Trying to load bibliography style 'gost-standard'...
+Package biblatex Info: ... file 'gost-standard.bbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-gost/gost-standard.bbx
+File: gost-standard.bbx 2020/10/28 v1.21 biblatex-gost styles
+
+
+Package biblatex-gost Warning: Applying temporary patch for Unicode symbols.
+(biblatex-gost)                For details see biblatex issue #960.
+
+Package biblatex Info: Trying to load biblatex-gost generic definitions...
+Package biblatex Info: ... file 'biblatex-gost.def' found.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def
+File: biblatex-gost.def 2020/10/28 v1.21 biblatex-gost styles
+)
+\c@blx@gost@pointer=\count570
+\c@bbx:relatedcount=\count571
+\c@bbx:relatedtotal=\count572
+Package biblatex Info: Redefining autocite command 'footnote'.
+Package biblatex Info: Redefining autocite command 'superscript'.
+))
+Package biblatex Info: Trying to load citation style 'gost-numeric'...
+Package biblatex Info: ... file 'gost-numeric.cbx' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-gost/gost-numeric.cbx
+File: gost-numeric.cbx 2020/10/28 v1.21 biblatex-gost styles
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count573
+\c@cbx@tempcntb=\count574
+\c@cbx@tempcntc=\count575
+\c@cbx@tempcntd=\count576
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+\c@citenum=\count577
+\c@citenum@totc=\count578
+\c@citeauthorvak=\count579
+\c@citeauthorvak@totc=\count580
+\c@citeauthorscopus=\count581
+\c@citeauthorscopus@totc=\count582
+\c@citeauthorwos=\count583
+\c@citeauthorwos@totc=\count584
+\c@citeauthorother=\count585
+\c@citeauthorother@totc=\count586
+\c@citeauthorconf=\count587
+\c@citeauthorconf@totc=\count588
+\c@citeauthor=\count589
+\c@citeauthor@totc=\count590
+\c@citeauthorvakscopuswos=\count591
+\c@citeauthorvakscopuswos@totc=\count592
+\c@citeauthorscopuswos=\count593
+\c@citeauthorscopuswos@totc=\count594
+\c@citeregistered=\count595
+\c@citeregistered@totc=\count596
+\c@citeauthorpatent=\count597
+\c@citeauthorpatent@totc=\count598
+\c@citeauthorprogram=\count599
+\c@citeauthorprogram@totc=\count600
+\c@citeexternal=\count601
+\c@citeexternal@totc=\count602
+)
+Selected options:
+Draft mode: 0
+Font: 1
+AltFont: 1
+Bibliography backend: 1
+Precompile images: 0
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'russian'.
+(./synopsis_Lemenkova.aux
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+)
+\openout1 = `synopsis_Lemenkova.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 43.
+Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
+line 43.
+Package nag Info: Command \RaggedRight not defined, skipping amendment on input
+ line 43.
+ (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count603
+\scratchdimen=\dimen383
+\scratchbox=\box90
+\nofMPsegments=\count604
+\nofMParguments=\count605
+\everyMPshowfont=\toks66
+\MPscratchCnt=\count606
+\MPscratchDim=\dimen384
+\MPnumerator=\count607
+\makeMPintoPDFobject=\count608
+\everyMPtoPDFconversion=\toks67
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(51.21495pt, 341.43309pt, 28.45274pt)
+* v-part:(T,H,B)=(39.83385pt, 517.84018pt, 39.83385pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=341.43309pt
+* \textheight=517.84018pt
+* \oddsidemargin=-21.05504pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-62.50363pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=0.0pt
+* \footskip=14.22636pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dicti
+onary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+LaTeX Info: Redefining \th on input line 43.
+Package hyperref Info: Link coloring ON on input line 43.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count609
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+(./synopsis_Lemenkova.out) (./synopsis_Lemenkova.out)
+\@outlinefile=\write7
+\openout7 = `synopsis_Lemenkova.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'russian' -> 'russian-gost'...
+Package biblatex Info: ... file 'russian-gost.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-gost/russian-gost.lbx
+File: russian-gost.lbx 2020/10/28 v1.21 biblatex-gost styles
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
+File: russian.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
+File: russian.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'english' -> 'english-gost'...
+Package biblatex Info: ... file 'english-gost.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
+File: english-gost.lbx 2020/10/28 v1.21 biblatex-gost styles
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-02-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout6 = `synopsis_Lemenkova.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'synopsis_Lemenkova.bbl' not found.
+
+No file synopsis_Lemenkova.bbl.
+
+Package biblatex Warning: citation 'Lemenkova202102' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202101' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202032' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202031' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202030' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202029' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202028' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202027' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202026' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202025' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202024' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202023' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202022' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202021' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202020' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202019' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202018' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202017' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202016' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202015' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202014' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202013' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202012' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202011' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202010' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202009' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202008' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202007' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202006' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202005' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202004' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202003' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202002' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova202001' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova2019108' was not found at all in t
+he .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova2019107' was not found at all in t
+he .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova2019106' was not found at all in t
+he .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova2019105' was not found at all in t
+he .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova2019104' was not found at all in t
+he .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova2019100' was not found at all in t
+he .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201999' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201998' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201997' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201996' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201995' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201994' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201993' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201992' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201991' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201990' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201989' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201988' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201905' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201904' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201901' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201871' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201868' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Lemenkova201866' was not found at all in th
+e .bbl, bibliography labels cannot be generated, please correct the citation.
+
+Package biblatex Info: Reference section=0 on input line 43.
+Package biblatex Info: Reference segment=0 on input line 43.
+Package nag Info: Command \captionabove not defined, skipping amendment on inpu
+t line 43.
+Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
+t line 43.
+Package nag Info: Command \hc@caption not defined, skipping amendment on input 
+line 43.
+Package nag Info: Command \topcaption not defined, skipping amendment on input 
+line 43.
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)<<ot1tt.cmap>>
+(./Synopsis/title.tex
+File: images//ifz-logo.png Graphic file (type png)
+<use images//ifz-logo.png>
+Package pdftex.def Info: images//ifz-logo.png  used on input line 12.
+(pdftex.def)             Requested size: 44.3388pt x 42.67912pt.
+File: images//Podpis_Lemenkova.jpg Graphic file (type jpg)
+<use images//Podpis_Lemenkova.jpg>
+Package pdftex.def Info: images//Podpis_Lemenkova.jpg  used on input line 12.
+(pdftex.def)             Requested size: 68.77309pt x 34.14322pt.
+ [1.1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s//ifz-logo.png> <./images//Podpis_Lemenkova.jpg>]
+Underfull \hbox (badness 2495) in paragraph at lines 99--99
+[]\T2A/cmr/m/n/10 Институт На^^?ук о Зем^^?ле СПГУ, ка^^?фед^^?ра
+ []
+
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 132.
+
+
+Overfull \hbox (23.95284pt too wide) in alignment at lines 132--132
+[][][] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 116--47
+
+ []
+
+[2.2] (./Synopsis/content.tex (./common/characteristic.tex
+Underfull \vbox (badness 2951) has occurred while \output is active []
+
+ [3.3
+
+]
+Underfull \hbox (badness 2689) in paragraph at lines 22--23
+[]\T2A/cmr/m/n/10 картография (скрип^^?то^^?вые ал^^?го^^?рит^^?мы об^^?ра^^?бо
+т^^?ки про^^?стран^^?
+ []
+
+
+Underfull \vbox (badness 3118) has occurred while \output is active []
+
+ [4.4]
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\T2A/cmr/m/n/10 дольно-^^?попе^^?реч^^?ных раз^^?ре^^?зов (про^^?фи^^?лей) глу^
+^?бо^^?ко^^?вод^^?ных
+ []
+
+[5.5]
+Underfull \hbox (badness 2035) in paragraph at lines 58--59
+\T2A/cmr/m/n/10 дан^^?ных, ко^^?то^^?рые об^^?ра^^?ба^^?ты^^?ва^^?лись, вы^^?чи
+с^^?ля^^?лись и ана^^?ли^^?зи^^?ро^^?
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 58--59
+\T2A/cmr/m/n/10 ана^^?ли^^?зе гео^^?ло^^?ги^^?че^^?ско^^?го стро^^?е^^?ния же^^
+?ло^^?бов (пред^^?став^^?лен^^?ный в
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 60--61
+\T2A/cmr/m/n/10 ществ^^?ле^^?но срав^^?ни^^?тель^^?ное мо^^?де^^?ли^^?ро^^?ва^^
+?нии гео^^?мор^^?фо^^?ло^^?ги^^?че^^?ских
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6.6]
+Underfull \hbox (badness 1454) in paragraph at lines 65--66
+[]\T2A/cmr/m/n/10 Особые гео^^?ло^^?ги^^?че^^?ские усло^^?вия, на^^?ли^^?чие зо
+н тек^^?то^^?ни^^?че^^?ской суб^^?
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 дук^^?ции, об^^?шир^^?ная тер^^?ри^^?то^^?рия Ти^^?хо^^?го оке^
+^?а^^?на со слож^^?ной си^^?сте^^?мой
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 ин^^?ди^^?ка^^?то^^?ра^^?ми ва^^?ри^^?а^^?ций глу^^?бо^^?ко^^?в
+од^^?ных же^^?ло^^?бов яв^^?ля^^?ют^^?ся гео^^?ло^^?ги^^?че^^?
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7.7]
+Underfull \hbox (badness 1472) in paragraph at lines 71--72
+[]$[]$ \T2A/cmr/m/n/10 Муль^^?ти^^?дис^^?ци^^?пли^^?нар^^?ная
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 75--76
+\T2A/cmr/m/n/10 для мо^^?де^^?ли^^?ро^^?ва^^?ния мор^^?фо^^?струк^^?тур глу^^?б
+о^^?ко^^?вод^^?ных же^^?ло^^?бов
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8.8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9.9])
+[10.10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11.11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12.12]
+<images//Р РёСЃ_01.jpg, id=237, 1290.8225pt x 780.9175pt>
+File: images//Р РёСЃ_01.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_01.jpg>
+Package pdftex.def Info: images//Р РёСЃ_01.jpg  used on input line 71.
+(pdftex.def)             Requested size: 290.2202pt x 175.56778pt.
+
+[13.13 <./images//Р РёСЃ_01.jpg>]
+Underfull \hbox (badness 2103) in paragraph at lines 84--85
+[]\T2A/cmr/m/n/10 Морфоструктуры же^^?ло^^?бов раз^^?но^^?об^^?раз^^?ны (V-, U-
+образ^^?ная, ду^^?го^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+\T2A/cmr/m/n/10 об^^?раз^^?ная, удли^^?нен^^?ная, пе^^?ре^^?вер^^?ну^^?тая греб
+^^?не^^?вид^^?ная, по^^?чти-^^?оваль^^?ная,
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 86--87
+[]$[]$ \T2A/cmr/m/n/10 по^^?свя^^?ще^^?на де^^?таль^^?но^^?му опи^^?са^^?нию ме
+^^?то^^?до^^?ло^^?гии и
+ []
+
+
+Underfull \vbox (badness 5388) has occurred while \output is active []
+
+ [14.14]
+Underfull \vbox (badness 3179) has occurred while \output is active []
+
+ [15.15]
+[16.16] [17.17]
+<images//Р РёСЃ_02a.jpg, id=276, 1144.275pt x 1086.0575pt>
+File: images//Р РёСЃ_02a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_02a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_02a.jpg  used on input line 157.
+(pdftex.def)             Requested size: 160.47397pt x 152.29558pt.
+<images//Р РёСЃ_02b.jpg, id=277, 2304.61pt x 1856.9375pt>
+File: images//Р РёСЃ_02b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_02b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_02b.jpg  used on input line 160.
+(pdftex.def)             Requested size: 180.9591pt x 145.78125pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18.18]
+<images//Р РёСЃ_03a.jpg, id=282, 1624.0675pt x 1534.73375pt>
+File: images//Р РёСЃ_03a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_03a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_03a.jpg  used on input line 175.
+(pdftex.def)             Requested size: 177.54666pt x 167.76741pt.
+<images//Р РёСЃ_03b.jpg, id=283, 1330.9725pt x 1386.17876pt>
+File: images//Р РёСЃ_03b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_03b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_03b.jpg  used on input line 178.
+(pdftex.def)             Requested size: 160.47397pt x 167.11687pt.
+
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+ [19.19 <./images//Р РёСЃ_02a.jpg> <./images//Р РёСЃ_02b.jpg>]
+<images//Р РёСЃ_04a.jpg, id=291, 785.93625pt x 1139.25626pt>
+File: images//Р РёСЃ_04a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_04a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_04a.jpg  used on input line 193.
+(pdftex.def)             Requested size: 102.43095pt x 148.47356pt.
+<images//Р РёСЃ_04b.jpg, id=292, 2475.2475pt x 2027.575pt>
+File: images//Р РёСЃ_04b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_04b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_04b.jpg  used on input line 196.
+(pdftex.def)             Requested size: 187.78923pt x 153.82504pt.
+
+Underfull \vbox (badness 3078) has occurred while \output is active []
+
+ [20.20 <./images//Р РёСЃ_03a.jpg> <./images//Р РёСЃ_03b.jpg>]
+<images//Р РёСЃ_05.jpg, id=298, 784.9325pt x 567.11874pt>
+File: images//Р РёСЃ_05.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_05.jpg>
+Package pdftex.def Info: images//Р РёСЃ_05.jpg  used on input line 210.
+(pdftex.def)             Requested size: 256.07481pt x 185.021pt.
+
+Underfull \vbox (badness 5847) has occurred while \output is active []
+
+ [21.21 <./images//Р РёСЃ_04a.jpg> <./images//Р РёСЃ_04b.jpg>]
+<images//Р РёСЃ_06.jpg, id=304, 1599.9775pt x 1301.86375pt>
+File: images//Р РёСЃ_06.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_06.jpg>
+Package pdftex.def Info: images//Р РёСЃ_06.jpg  used on input line 220.
+(pdftex.def)             Requested size: 153.64383pt x 125.00928pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 221.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--223
+[]$[]$ \T2A/cmr/m/n/10 Же^^?лоб Тон^^?га (ЖТ) име^^?ет мень^^?шую глу^^?би^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--223
+\T2A/cmr/m/n/10 ну по срав^^?не^^?нию с ЖК, несмот^^?ря на близ^^?кое рас^^?по^
+^?ло^^?же^^?ние.
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 223--225
+\T2A/cmr/m/n/10 для ЖТ 320 от^^?бо^^?ров проб на
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 223--225
+\T2A/cmr/m/n/10 ри^^?ан^^?ты глу^^?бин мор^^?ско^^?го дна в
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 223--225
+\T2A/cmr/m/n/10 диа^^?па^^?зоне от -6000 до -5000 м,
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 223--225
+\T2A/cmr/m/n/10 мож^^?но от^^?ме^^?тить, что ЖТ име^^?
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 223--225
+\T2A/cmr/m/n/10 бин, неров^^?ность дна и кру^^?той
+ []
+
+
+Overfull \hbox (45.83717pt too wide) in paragraph at lines 227--228
+[]$[]$\T2A/cmr/m/n/10 .
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22.22 <./images//Р РёСЃ_05.jpg> <./images//Р РёСЃ_06.jpg>]
+<images//Р РёСЃ_07a.jpg, id=312, 1098.1025pt x 1010.77625pt>
+File: images//Р РёСЃ_07a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_07a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_07a.jpg  used on input line 233.
+(pdftex.def)             Requested size: 160.47397pt x 147.70782pt.
+<images//Р РёСЃ_07b.jpg, id=313, 2530.45375pt x 2018.54124pt>
+File: images//Р РёСЃ_07b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_07b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_07b.jpg  used on input line 236.
+(pdftex.def)             Requested size: 180.9591pt x 144.33076pt.
+ [23.23 <./images//Р РёСЃ_07a.jpg> <./images//Р РёСЃ_07b.jpg>]
+Underfull \hbox (badness 1931) in paragraph at lines 248--249
+[]$[]$\T2A/cmr/m/n/10 . Но^^?во^^?бри^^?тан^^?ский же^^?лоб
+ []
+
+<images//Р РёСЃ_08a.jpg, id=319, 1439.3775pt x 1014.79124pt>
+File: images//Р РёСЃ_08a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_08a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_08a.jpg  used on input line 254.
+(pdftex.def)             Requested size: 180.9591pt x 127.57635pt.
+<images//Р РёСЃ_08b.jpg, id=320, 2330.7075pt x 1893.0725pt>
+File: images//Р РёСЃ_08b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_08b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_08b.jpg  used on input line 257.
+(pdftex.def)             Requested size: 160.47397pt x 130.33328pt.
+[24.24 <./images//Р РёСЃ_08a.jpg> <./images//Р РёСЃ_08b.jpg>]
+<images//Р РёСЃ_09.jpg, id=326, 1124.2pt x 1694.33pt>
+File: images//Р РёСЃ_09.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_09.jpg>
+Package pdftex.def Info: images//Р РёСЃ_09.jpg  used on input line 273.
+(pdftex.def)             Requested size: 153.64383pt x 231.5427pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 274.
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 278--279
+\T2A/cmr/m/n/10 ФЖ. Ана^^?лиз гра^^?фи^^?ка яс^^?но по^^?
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 278--279
+\T2A/cmr/m/n/10 же^^?ло^^?бов. 3D-модель по^^?ка^^?зы^^?ва^^?ет
+ []
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 280.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 280.
+
+Missing character: There is no к in font cmr10!
+Missing character: There is no м in font cmr10!
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 280.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 280.
+
+Missing character: There is no к in font cmr10!
+Missing character: There is no м in font cmr10!
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 280.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 280.
+
+Missing character: There is no к in font cmr10!
+Missing character: There is no м in font cmr10!
+
+Underfull \hbox (badness 4981) in paragraph at lines 280--281
+\T2A/cmr/m/n/10 Фи^^?лип^^?пин^^?ско^^?го мо^^?ря (ПФМ) и
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 280--281
+\T2A/cmr/m/n/10 (ФМ). Ре^^?льеф дна ФМ име^^?ет
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 280--281
+\T2A/cmr/m/n/10 чер^^?ты пе^^?ре^^?ход^^?ной зо^^?ны с круп^^?
+ []
+
+[25.25 <./images//Р РёСЃ_09.jpg>]
+<images//Р РёСЃ_10a.jpg, id=333, 1304.875pt x 932.48375pt>
+File: images//Р РёСЃ_10a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_10a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_10a.jpg  used on input line 289.
+(pdftex.def)             Requested size: 187.78923pt x 134.18933pt.
+<images//Р РёСЃ_10b.jpg, id=334, 837.1275pt x 730.73pt>
+File: images//Р РёСЃ_10b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_10b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_10b.jpg  used on input line 292.
+(pdftex.def)             Requested size: 153.64384pt x 134.11252pt.
+ [26.26 <./images//Р РёСЃ_10a.jpg> <./images//Р РёСЃ_10b.jpg>]
+Underfull \hbox (badness 2221) in paragraph at lines 301--302
+[]$[]$\T2A/cmr/m/n/10 . Ре^^?зуль^^?та^^?ты ана^^?ли^^?за дан^^?ных про^^?де^^?
+мон^^?стри^^?ро^^?ва^^?
+ []
+
+<images//Р РёСЃ_11a.jpg, id=341, 963.6pt x 989.6975pt>
+File: images//Р РёСЃ_11a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_11a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_11a.jpg  used on input line 307.
+(pdftex.def)             Requested size: 153.64384pt x 157.79607pt.
+<images//Р РёСЃ_11b.jpg, id=342, 1770.615pt x 1465.475pt>
+File: images//Р РёСЃ_11b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_11b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_11b.jpg  used on input line 310.
+(pdftex.def)             Requested size: 187.78923pt x 155.41116pt.
+
+Underfull \vbox (badness 4291) has occurred while \output is active []
+
+ [27.27]
+<images//Р РёСЃ_12a.jpg, id=347, 883.3pt x 951.555pt>
+File: images//Р РёСЃ_12a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_12a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_12a.jpg  used on input line 326.
+(pdftex.def)             Requested size: 136.57115pt x 147.11198pt.
+<images//Р РёСЃ_12b.jpg, id=348, 920.43875pt x 714.67pt>
+File: images//Р РёСЃ_12b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_12b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_12b.jpg  used on input line 329.
+(pdftex.def)             Requested size: 187.78923pt x 145.79947pt.
+
+[28.28 <./images//Р РёСЃ_11a.jpg> <./images//Р РёСЃ_11b.jpg>]pdfTeX warning (ex
+t4): destination with the same identifier (name{mt.0}) has been already used, d
+uplicate ignored
+<to be read again> 
+                   \relax 
+l.339 ...mark{РњР°СЂРёР°РЅСЃРєРёР№ Р¶РµР»РѕР±}{mt}
+                                                  
+<images//Р РёСЃ_13a.jpg, id=354, 844.15375pt x 795.97375pt>
+File: images//Р РёСЃ_13a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_13a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_13a.jpg  used on input line 346.
+(pdftex.def)             Requested size: 153.64384pt x 144.8723pt.
+<images//Р РёСЃ_13b.jpg, id=355, 1726.45pt x 1380.15625pt>
+File: images//Р РёСЃ_13b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_13b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_13b.jpg  used on input line 349.
+(pdftex.def)             Requested size: 180.9591pt x 144.65744pt.
+<images//Р РёСЃ_14.jpg, id=356, 1088.065pt x 1664.2175pt>
+File: images//Р РёСЃ_14.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_14.jpg>
+Package pdftex.def Info: images//Р РёСЃ_14.jpg  used on input line 359.
+(pdftex.def)             Requested size: 153.64383pt x 234.99498pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 360.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29.29 <./images//Р РёСЃ_12a.jpg> <./images//Р РёСЃ_12b.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+[][]\T2A/cmr/m/n/10 В ре^^?зуль^^?та^^?те гео^^?мор^^?фо^^?ло^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+\T2A/cmr/m/n/10 ги^^?че^^?ских осо^^?бен^^?но^^?стей MрЖ
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 364--365
+\T2A/cmr/m/n/10 скло^^?ны и глу^^?би^^?ны 3-5 км, ши^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+\T2A/cmr/m/n/10 вы^^?зван^^?ные ак^^?тив^^?ны^^?ми тек^^?то^^?ни^^?
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 364--365
+\T2A/cmr/m/n/10 че^^?ски^^?ми про^^?цес^^?са^^?ми и эро^^?зи^^?ей.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+\T2A/cmr/m/n/10 со^^?став^^?ля^^?ет 4-5\TS1/cmr/m/n/10 °\T2A/cmr/m/n/10 , но от
+^^?дель^^?ные
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30.30 <./images//Р РёСЃ_13a.jpg> <./images//Р РёСЃ_13b.jpg> <./images//Р РёСЃ
+_14.jpg>]
+<images//Р РёСЃ_15a.jpg, id=368, 1231.60126pt x 1020.81375pt>
+File: images//Р РёСЃ_15a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_15a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_15a.jpg  used on input line 375.
+(pdftex.def)             Requested size: 177.54666pt x 147.14972pt.
+<images//Р РёСЃ_15b.jpg, id=369, 907.39pt x 811.03pt>
+File: images//Р РёСЃ_15b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_15b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_15b.jpg  used on input line 378.
+(pdftex.def)             Requested size: 163.88641pt x 146.4741pt.
+<images//Р РёСЃ_16a.jpg, id=370, 965.6075pt x 928.46875pt>
+File: images//Р РёСЃ_16a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_16a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_16a.jpg  used on input line 388.
+(pdftex.def)             Requested size: 153.64384pt x 147.72217pt.
+<images//Р РёСЃ_16b.jpg, id=371, 1473.505pt x 1195.46625pt>
+File: images//Р РёСЃ_16b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_16b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_16b.jpg  used on input line 391.
+(pdftex.def)             Requested size: 180.9591pt x 146.80615pt.
+
+[31.31]
+<images//Р РёСЃ_17a.jpg, id=377, 1123.19624pt x 1007.765pt>
+File: images//Р РёСЃ_17a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_17a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_17a.jpg  used on input line 406.
+(pdftex.def)             Requested size: 177.54666pt x 159.29279pt.
+<images//Р РёСЃ_17b.jpg, id=378, 895.345pt x 1009.7725pt>
+File: images//Р РёСЃ_17b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_17b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_17b.jpg  used on input line 409.
+(pdftex.def)             Requested size: 143.40126pt x 161.72098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32.32 <./images//Р РёСЃ_15a.jpg> <./images//Р РёСЃ_15b.jpg> <./images//Р РёСЃ
+_16a.jpg> <./images//Р РёСЃ_16b.jpg>]
+<images//Р РёСЃ_18a.jpg, id=385, 1010.77625pt x 1044.90375pt>
+File: images//Р РёСЃ_18a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_18a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_18a.jpg  used on input line 421.
+(pdftex.def)             Requested size: 153.64384pt x 158.81744pt.
+<images//Р РёСЃ_18b.jpg, id=386, 1662.21pt x 1373.13pt>
+File: images//Р РёСЃ_18b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_18b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_18b.jpg  used on input line 424.
+(pdftex.def)             Requested size: 180.9591pt x 149.47334pt.
+
+Underfull \hbox (badness 6825) in paragraph at lines 433--434
+[]$[]$\T2A/cmr/m/n/10 . Же^^?лоб Пюй^^?се^^?г^^?юр име^^?ет асим^^?мет^^?рич^^?
+ную
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33.33 <./images//Р РёСЃ_17a.jpg> <./images//Р РёСЃ_17b.jpg>]
+<images//Р РёСЃ_19a.jpg, id=392, 878.28125pt x 941.5175pt>
+File: images//Р РёСЃ_19a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_19a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_19a.jpg  used on input line 439.
+(pdftex.def)             Requested size: 170.71654pt x 182.99896pt.
+<images//Р РёСЃ_19b.jpg, id=393, 1023.825pt x 1358.07375pt>
+File: images//Р РёСЃ_19b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_19b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_19b.jpg  used on input line 442.
+(pdftex.def)             Requested size: 136.57115pt x 181.15617pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34.34 <./images//Р РёСЃ_18a.jpg> <./images//Р РёСЃ_18b.jpg> <./images//Р РёСЃ
+_19a.jpg> <./images//Р РёСЃ_19b.jpg>]
+<images//Р РёСЃ_20a.jpg, id=400, 959.585pt x 1465.475pt>
+File: images//Р РёСЃ_20a.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_20a.jpg>
+Package pdftex.def Info: images//Р РёСЃ_20a.jpg  used on input line 457.
+(pdftex.def)             Requested size: 143.40126pt x 218.98439pt.
+<images//Р РёСЃ_20b.jpg, id=401, 1417.295pt x 1687.30376pt>
+File: images//Р РёСЃ_20b.jpg Graphic file (type jpg)
+<use images//Р РёСЃ_20b.jpg>
+Package pdftex.def Info: images//Р РёСЃ_20b.jpg  used on input line 460.
+(pdftex.def)             Requested size: 184.37157pt x 219.48592pt.
+
+Underfull \vbox (badness 5847) has occurred while \output is active []
+
+ [35.35 <./images//Р РёСЃ_20a.jpg> <./images//Р РёСЃ_20b.jpg>]
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+ [36.36]
+(./common/concl.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37.37])
+
+LaTeX Warning: Citation 'Lemenkova202102' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202101' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202032' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202031' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202030' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202029' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202028' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202027' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202026' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202025' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202024' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202023' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202022' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202021' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202020' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202019' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202018' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202017' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202016' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202015' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202014' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202013' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202012' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202011' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202010' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202009' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202008' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202007' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202006' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202005' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202004' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202003' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202002' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova202001' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova2019108' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova2019107' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova2019106' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova2019105' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova2019104' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova2019100' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201999' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201998' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201997' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201996' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201995' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201994' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201993' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201992' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201991' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201990' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201989' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201988' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201905' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201904' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201901' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201871' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201868' undefined on input line 594.
+
+
+LaTeX Warning: Citation 'Lemenkova201866' undefined on input line 594.
+
+
+LaTeX Warning: Empty bibliography on input line 594.
+
+
+Package biblatex Warning: Keyword 'biblioexternal' not found on input line 594.
+
+
+
+LaTeX Warning: Empty bibliography on input line 594.
+
+
+Package biblatex Warning: Keyword 'biblioexternal' not found on input line 594.
+
+
+
+LaTeX Warning: Empty bibliography on input line 594.
+
+) [38.38] [39.39] [40.40
+
+]
+
+Package caption Warning: Unused \captionsetup[table] on input line 25.
+See the caption package documentation for explanation.
+
+
+Package nag Warning: 3 complaints in total.
+
+(./synopsis_Lemenkova.aux<<t1.cmap>>
+Package cleveref Info: loaded `russian' language definitions on input line 27.
+)
+
+ *File List*
+     nag.sty    2011/11/25 0.7 warning about old commands (ulmi)
+nag-l2tabu.cfg    2010/05/17 v2.11 l2tabu rules for nag.sty (ulmi)
+nag-orthodox.cfg    2006/04/19 v1.8 strict rules for nag.sty (ulmi)
+  memoir.cls    2021/03/23 v3.7o configurable book, report, article document cl
+ass
+   iftex.sty    2020/03/06 v1.0d TeX engine tests
+   mem10.clo    2008/01/30 v0.3 memoir class 10pt size option
+   array.sty    2020/10/01 v2.5c Tabular extension package (FMi)
+ dcolumn.sty    2014/10/28 v1.06 decimal alignment package (DPC)
+delarray.sty    2014/10/28 v1.01 array delimiter package (DPC)
+tabularx.sty    2020/01/15 v2.11c `tabularx' package (DPC)
+textcase.sty    2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+common/setup.tex
+common/packages.tex
+etoolbox.sty    2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+ comment.sty    
+pdflscape.sty    2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+  lscape.sty    2020/05/28 v3.02 Landscape Pages (DPC)
+graphics.sty    2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2016/01/03 v1.10 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2020/10/05 v1.2a Graphics/color driver for pdftex
+geometry.sty    2020/01/02 v5.9 Page Geometry
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+  ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+  amsthm.sty    2020/05/29 v2.20.6
+ amsmath.sty    2020/09/23 v2.17i AMS math features
+ amstext.sty    2000/06/29 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2016/03/08 v2.02 operator names
+   amscd.sty    2017/04/14 v2.1 AMS Commutative Diagrams
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+mathtools.sty    2021/03/18 v1.25 mathematical typesetting tools
+    calc.sty    2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+ mhsetup.sty    2021/03/18 v1.4 programming setup (MH)
+   xfrac.sty    2021-03-12 L3 Experimental split-level fractions
+   expl3.sty    2021-02-18 L3 programming layer (loader) 
+l3backend-pdftex.def    2021-03-18 L3 backend support: PDF output (pdfTeX)
+graphicx.sty    2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+l3keys2e.sty    2021-03-12 LaTeX2e option processing using LaTeX3 keys
+textcomp.sty    2020/02/02 v2.0n Standard LaTeX package
+  xparse.sty    2021-01-09 L3 Experimental document command parser
+xparse-2020-10-01.sty    
+xtemplate.sty    2021-03-12 L3 Experimental prototype document functions
+ siunitx.sty    2020/02/25 v2.8b A comprehensive (SI) units package
+translator.sty    2020-08-03 v1.12c Easy translation of strings in LaTeX
+ siunitx.cfg    
+    cmap.sty    2021/02/06 v1.0j CMap support: searchable PDF
+ fontenc.sty
+  t2aenc.def    2005/09/27 v1.0i Cyrillic encoding definition file
+  t2aenc.dfu    2019/11/14 v1.2k UTF-8 support for inputenc
+  t2acmr.fd    2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+inputenc.sty    2020/08/01 v1.3d Input encoding file
+   babel.sty    2021/03/24 3.56 The Babel package
+ english.ldf    2017/06/06 v3.3r English support from the babel system
+russianb.ldf    2021/01/10 1.3m Russian support for the Babel system
+indentfirst.sty    1995/11/23 v1.03 Indent first paragraph (DPC)
+  xcolor.sty    2016/05/11 v2.12 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+colortbl.sty    2020/01/04 v1.0e Color table columns (DPC)
+dvipsnam.def    2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+longtable.sty    2020/01/07 v4.13 Multi-page Table package (DPC)
+ltcaption.sty    2020/05/30 v1.4b longtable captions (AR)
+multirow.sty    2021/03/15 v2.8 Span multiple rows of a table
+makecell.sty    2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+    tabu.sty    2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+varwidth.sty    2009/03/30 ver 0.92;  Variable-width minipages
+tabulary.sty    2014/06/11 v0.10 tabulary package (DPC)
+threeparttable.sty    2003/06/13  v 3.0
+soulutf8.sty    2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
+    soul.sty    2003/11/17 v2.4 letterspacing/underlining (mf)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+  icomma.sty    2002/03/10 v2.0 (WaS)
+impnattypo.sty    
+ifluatex.sty    2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+kvoptions.sty    2020-10-07 v3.14 Key value format for package options (HO)
+ ltxcmds.sty    2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
+    tikz.sty    2020/12/27 v3.1.8b (3.1.8b)
+     pgf.sty    2020/12/27 v3.1.8b (3.1.8b)
+  pgfrcs.sty    2020/12/27 v3.1.8b (3.1.8b)
+pgfrcs.code.tex
+ pgfcore.sty    2020/12/27 v3.1.8b (3.1.8b)
+  pgfsys.sty    2020/12/27 v3.1.8b (3.1.8b)
+pgfsys.code.tex
+pgfsyssoftpath.code.tex    2020/12/27 v3.1.8b (3.1.8b)
+pgfsysprotocol.code.tex    2020/12/27 v3.1.8b (3.1.8b)
+pgfcore.code.tex
+pgfcomp-version-0-65.sty    2020/12/27 v3.1.8b (3.1.8b)
+pgfcomp-version-1-18.sty    2020/12/27 v3.1.8b (3.1.8b)
+  pgffor.sty    2020/12/27 v3.1.8b (3.1.8b)
+ pgfkeys.sty    
+pgfkeys.code.tex
+ pgfmath.sty    
+pgfmath.code.tex
+pgffor.code.tex
+tikz.code.tex
+hyperref.sty    2021-02-27 v7.00k Hypertext links for LaTeX
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdfescape.sty    2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ hycolor.sty    2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+letltxmacro.sty    2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+  pd1enc.def    2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+hyperref-langpatches.def    2021-02-27 v7.00k Hyperref: patches for babel langu
+ages
+ intcalc.sty    2019/12/15 v1.3 Expandable calculations with integers (HO)
+   puenc.def    2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
+bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
+atbegshi-ltx.sty    2020/08/17 v1.0a Emulation of the original atbegshi package
+
+with kernel methods
+memhfixc.sty    2019/10/24 v1.18 nameref/hyperref package fixes for memoir clas
+s
+ hpdftex.def    2021-02-27 v7.00k Hyperref driver for pdfTeX
+atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+rerunfilecheck.sty    2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+ caption.sty    2020/10/26 v3.5g Customizing captions (AR)
+caption3.sty    2020/10/21 v2.2e caption3 kernel (AR)
+caption-memoir.sto    2020/10/10 v2.1 Adaption of the caption package to the me
+moir document class (AR)
+subcaption.sty    2020/10/07 v1.3j Sub-captions (AR)
+pdfpages.sty    2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+  ifthen.sty    2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+ eso-pic.sty    2020/10/14 v3.0a eso-pic (RN)
+pppdftex.def    2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+aliascnt.sty    2018/09/07 v1.5 Alias counters (HO)
+totalcount.sty    2018/01/21 v1.0a Total values of counters (AR)
+totcount.sty    2011/01/25 v1.2 package for gettingthe total value of LaTeX cou
+nters
+totpages.sty    2005/09/19 v2.00 Totpages Package (muewi)
+everyshi-ltx.sty    2020/08/17 v1.0a Emulation of the original everyshi package
+
+with kernel methods
+ wrapfig.sty    2003/01/31  v 3.6
+cleveref.sty    2018/03/27 v0.21.4 Intelligent cross-referencing
+placeins.sty    2005/04/18  v 2.2
+Synopsis/synpackages.tex
+enumitem.sty    2019/06/20 v3.9 Customized lists
+Synopsis/userpackages.tex
+common/newnames.tex
+Synopsis/setup.tex
+common/data.tex
+common/fonts.tex
+common/styles.tex
+Synopsis/synstyles.tex
+Synopsis/userstyles.tex
+biblio/biblatex.tex
+csquotes.sty    2021-02-22 v5.2l context-sensitive quotations (JAW)
+csquotes.def    2021-02-22 v5.2l csquotes generic definitions (JAW)
+csquotes.cfg    
+biblatex.sty    2020/12/31 v3.16 programmable bibliographies (PK/MW)
+  logreq.sty    2010/08/04 v1.0 xml request logger
+  logreq.def    2010/08/04 v1.0 logreq spec v1.0
+  blx-dm.def    2020/12/31 v3.16 biblatex localization (PK/MW)
+biblatex-gost.dbx    2020/10/28 v1.21 biblatex-gost data model
+gost-numeric.dbx    2020/10/28 v1.21 biblatex-gost data model
+blx-compat.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+biblatex.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+biblatex-gost.def    2020/10/28 v1.21 biblatex-gost styles
+gost-standard.bbx    2020/10/28 v1.21 biblatex-gost styles
+gost-numeric.bbx    2020/10/28 v1.21 biblatex-gost styles
+numeric-comp.cbx    2020/12/31 v3.16 biblatex citation style (PK/MW)
+gost-numeric.cbx    2020/10/28 v1.21 biblatex-gost styles
+biblatex.cfg    
+supp-pdf.mkii
+epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
+  grfext.sty    2019/12/03 v1.3 Manage graphics extensions (HO)
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+siunitx-abbreviations.cfg    2017/11/26 v2.7k siunitx: Abbreviated units
+translator-basic-dictionary-English.dict    
+ nameref.sty    2021-04-02 v2.47 Cross-referencing by name of section
+refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
+gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
+synopsis_Lemenkova.out
+synopsis_Lemenkova.out
+ russian.lbx    2020/12/31 v3.16 biblatex localization (PK/MW)
+russian-gost.lbx    2020/10/28 v1.21 biblatex-gost styles
+ english.lbx    2020/12/31 v3.16 biblatex localization (PK/MW)
+english-gost.lbx    2020/10/28 v1.21 biblatex-gost styles
+blx-case-expl3.sty    2020/12/31 v3.16 expl3 case changing code for biblatex
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+Synopsis/title.tex
+images//ifz-logo.png
+images//Podpis_Lemenkova.jpg
+images//ifz-logo.png
+images//Podpis_Lemenkova.jpg
+images//ifz-logo.png
+images//Podpis_Lemenkova.jpg
+Synopsis/content.tex
+common/characteristic.tex
+images//Р РёСЃ_01.jpg
+images//Р РёСЃ_02a.jpg
+images//Р РёСЃ_02b.jpg
+images//Р РёСЃ_03a.jpg
+images//Р РёСЃ_03b.jpg
+images//Р РёСЃ_04a.jpg
+images//Р РёСЃ_04b.jpg
+images//Р РёСЃ_05.jpg
+images//Р РёСЃ_06.jpg
+images//Р РёСЃ_07a.jpg
+images//Р РёСЃ_07b.jpg
+images//Р РёСЃ_08a.jpg
+images//Р РёСЃ_08b.jpg
+images//Р РёСЃ_09.jpg
+images//Р РёСЃ_10a.jpg
+images//Р РёСЃ_10b.jpg
+images//Р РёСЃ_11a.jpg
+images//Р РёСЃ_11b.jpg
+images//Р РёСЃ_12a.jpg
+images//Р РёСЃ_12b.jpg
+images//Р РёСЃ_13a.jpg
+images//Р РёСЃ_13b.jpg
+images//Р РёСЃ_14.jpg
+images//Р РёСЃ_15a.jpg
+images//Р РёСЃ_15b.jpg
+images//Р РёСЃ_16a.jpg
+images//Р РёСЃ_16b.jpg
+images//Р РёСЃ_17a.jpg
+images//Р РёСЃ_17b.jpg
+images//Р РёСЃ_18a.jpg
+images//Р РёСЃ_18b.jpg
+images//Р РёСЃ_19a.jpg
+images//Р РёСЃ_19b.jpg
+images//Р РёСЃ_20a.jpg
+images//Р РёСЃ_20b.jpg
+common/concl.tex
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `synopsis_Lemenkova.out' has not changed.
+(rerunfilecheck)             Checksum: 4BF9034A51B06BDDBA69E6A89D7056E4;5686.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                synopsis_Lemenkova
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'synopsis_Lemenkova.run.xml'.
+\openout1 = `synopsis_Lemenkova.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 45109 strings out of 478994
+ 852552 string characters out of 5858184
+ 1883805 words of memory out of 5000000
+ 61593 multiletter control sequences out of 15000+600000
+ 419713 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 92i,12n,91p,2989b,2969s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2
+021/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on synopsis_Lemenkova.pdf (40 pages, 16708384 bytes).
+PDF statistics:
+ 507 PDF objects out of 1000 (max. 8388607)
+ 403 compressed objects within 5 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 490 words of extra memory for PDF output out of 10000 (max. 10000000)
+
