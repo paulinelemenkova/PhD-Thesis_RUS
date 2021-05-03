@@ -1,0 +1,49 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\changetocdepth {2}
+\babel@toc {russian}{}
+\tocheader 
+\contentsline {chapter}{Введение}{3}{chapter*.2}%
+\contentsline {chapter}{\chapternumberline {1}Оформление различных элементов}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Форматирование текста}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Ссылки}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Формулы}{7}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Ненумерованные одиночные формулы}{7}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Ненумерованные многострочные формулы}{8}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Нумерованные формулы}{9}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Форматирование чисел и размерностей величин}{10}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Заголовки с формулами: \(a^2 + b^2 = c^2\), \(\left \vert \textrm {{Im}}\Sigma \left ( \varepsilon \right )\right \vert \approx const\), \(\upsigma _{xx}^{(1)}\) }{13}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}Рецензирование текста}{14}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Работа со списком сокращений и~условных обозначений}{14}{section.1.5}%
+\contentsline {chapter}{\chapternumberline {2}Длинное название главы, в которой мы смотрим на~примеры того, как будут верстаться изображения и~списки}{16}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Одиночное изображение}{16}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Длинное название параграфа, в котором мы узнаём как сделать две картинки с~общим номером и названием}{16}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Пример вёрстки списков}{18}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Традиции русского набора}{19}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Пробелы}{20}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Математические знаки и символы}{20}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Кавычки}{20}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Тире}{21}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Дефисы и переносы слов}{22}{subsection.2.4.5}%
+\contentsline {section}{\numberline {2.5}Текст из панграмм и формул}{22}{section.2.5}%
+\contentsline {chapter}{\chapternumberline {3}Вёрстка таблиц}{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Таблица обыкновенная}{26}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Таблица с многострочными ячейками и примечанием}{27}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Таблицы с форматированными числами}{27}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Параграф \cyrdash {} два}{28}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Параграф с подпараграфами}{29}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Подпараграф \cyrdash {} один}{29}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Подпараграф \cyrdash {} два}{29}{subsection.3.5.2}%
+\contentsline {chapter}{Заключение}{32}{chapter*.30}%
+\contentsline {chapter}{Словарь терминов}{33}{chapter*.31}%
+\contentsline {chapter}{Список рисунков}{34}{section*.32}%
+\contentsline {chapter}{Список таблиц}{35}{section*.33}%
+\contentsline {appendix}{\chapternumberline {\CYRA }Примеры вставки листингов программного кода}{36}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {\CYRB }Очень длинное название второго приложения, в~котором продемонстрирована работа с~длинными таблицами}{42}{appendix.B}%
+\contentsline {section}{\numberline {\CYRB .1}Подраздел приложения}{42}{section.B.1}%
+\contentsline {section}{\numberline {\CYRB .2}Ещё один подраздел приложения}{44}{section.B.2}%
+\contentsline {section}{\numberline {\CYRB .3}Использование длинных таблиц с окружением \textit {longtabu}}{48}{section.B.3}%
+\contentsline {section}{\numberline {\CYRB .4}Форматирование внутри таблиц}{51}{section.B.4}%
+\contentsline {section}{\numberline {\CYRB .5}Стандартные префиксы ссылок}{53}{section.B.5}%
+\contentsline {section}{\numberline {\CYRB .6}Очередной подраздел приложения}{54}{section.B.6}%
+\contentsline {section}{\numberline {\CYRB .7}И ещё один подраздел приложения}{54}{section.B.7}%
+\contentsline {appendix}{\chapternumberline {\CYRV }Чертёж детали}{55}{appendix.C}%
