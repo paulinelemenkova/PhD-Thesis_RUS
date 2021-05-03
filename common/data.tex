@@ -1,0 +1,114 @@
+%%% Основные сведения %%%
+\newcommand{\thesisAuthorLastName}{Леменкова}
+\newcommand{\thesisAuthorOtherNames}{Полина Алексеевна}
+\newcommand{\thesisAuthorInitials}{П.\,А.}
+\newcommand{\thesisAuthor}           % Диссертация, ФИО автора
+{%
+    \texorpdfstring{% \texorpdfstring takes two arguments and uses the first for (La)TeX and the second for pdf
+        \thesisAuthorLastName~\thesisAuthorOtherNames% так будет отображаться на титульном листе или в тексте, где будет использоваться переменная
+    }{%
+        \thesisAuthorLastName, \thesisAuthorOtherNames% эта запись для свойств pdf-файла. В таком виде, если pdf будет обработан программами для сбора библиографических сведений, будет правильно представлена фамилия.
+    }
+}
+\newcommand{\thesisAuthorShort}        % Диссертация, ФИО автора инициалами
+{\thesisAuthorInitials~\thesisAuthorLastName}
+%\newcommand{\thesisUdk}                % Диссертация, УДК
+%{\fixme{xxx.xxx}}
+\newcommand{\thesisTitle}              % Диссертация, название
+{Морфоструктурные особенности глубоководных желобов Тихого океана, проблема их происхождения}
+\newcommand{\thesisSpecialtyNumber}    % Диссертация, специальность, номер
+{25.00.03}
+\newcommand{\thesisSpecialtyTitle}     % Диссертация, специальность, название (название взято с сайта ВАК для примера)
+{Геотектоника и геодинамика}
+
+\newcommand{\thesisDegree}             % Диссертация, ученая степень
+{кандидата геолого-минералогических наук}
+\newcommand{\thesisDegreeShort}        % Диссертация, ученая степень, краткая запись
+{канд. геол.-мин. наук}
+\newcommand{\thesisCity}               % Диссертация, город написания диссертации
+{Москва}
+\newcommand{\thesisYear}               % Диссертация, год написания диссертации
+{\the\year}
+\newcommand{\thesisOrganization}       % Диссертация, организация
+{\fixme{Федеральное государственное автономное образовательное учреждение высшего
+образования <<Длинное название образовательного учреждения <<АББРЕВИАТУРА>>}}
+\newcommand{\thesisOrganizationShort}  % Диссертация, краткое название организации для доклада
+{\fixme{НазУчДисРаб}}
+
+\newcommand{\thesisInOrganization}     % Диссертация, организация в предложном падеже: Работа выполнена в ...
+{Лаборатории № 303 Региональной геофизики и природных катастроф Отделении III: Природных, природно-техногенных катастроф и сейсмичности Земли Института физики Земли им. О. Шмидта Российской Академии Наук (ИФЗ РАН)}
+
+%% \newcommand{\supervisorDead}{}           % Рисовать рамку вокруг фамилии
+\newcommand{\supervisorFio}              % Научный руководитель, ФИО
+{Илларионов Владимир Константинович}
+\newcommand{\supervisorRegalia}          % Научный руководитель, регалии
+{кандидат геолого-минералогических наук, ведущий научный сотрудник Лаборатории № 303 Региональной геофизики и природных катастроф ИФЗ им. О. Шмидта РАН}
+\newcommand{\supervisorFioShort}         % Научный руководитель, ФИО
+{\fixme{И.\,О.~Фамилия}}
+\newcommand{\supervisorRegaliaShort}     % Научный руководитель, регалии
+{\fixme{уч.~ст.,~уч.~зв.}}
+
+%% \newcommand{\supervisorTwoDead}{}        % Рисовать рамку вокруг фамилии
+%% \newcommand{\supervisorTwoFio}           % Второй научный руководитель, ФИО
+%% {\fixme{Фамилия Имя Отчество}}
+%% \newcommand{\supervisorTwoRegalia}       % Второй научный руководитель, регалии
+%% {\fixme{уч. степень, уч. звание}}
+%% \newcommand{\supervisorTwoFioShort}      % Второй научный руководитель, ФИО
+%% {\fixme{И.\,О.~Фамилия}}
+%% \newcommand{\supervisorTwoRegaliaShort}  % Второй научный руководитель, регалии
+%% {\fixme{уч.~ст.,~уч.~зв.}}
+
+\newcommand{\opponentOneFio}           % Оппонент 1, ФИО
+{Хортов Алексей Владимирович}
+\newcommand{\opponentOneRegalia}       % Оппонент 1, регалии
+{доктор геолого-минералогических наук}
+\newcommand{\opponentOneJobPlace}      % Оппонент 1, место работы
+{Институт океанологии им. П.П.  Ширшова РАН, Лаборатория геодинамики, георесурсов и геоэкологии ФГБУН}
+\newcommand{\opponentOneJobPost}       % Оппонент 1, должность
+{ведущий научный сотрудник}
+
+\newcommand{\opponentTwoFio}           % Оппонент 2, ФИО
+{Пискарев-Васильев Алексей Лазаревич}
+\newcommand{\opponentTwoRegalia}       % Оппонент 2, регалии
+{доктор геолого-минералогических наук}
+\newcommand{\opponentTwoJobPlace}      % Оппонент 2, место работы
+{Институт Наук о Земле СПГУ, кафедра геофизики, ФГБУ ВНИИОкеангеология им. акад. И.С. Грамберга}
+\newcommand{\opponentTwoJobPost}       % Оппонент 2, должность
+{профессор, академик РАЕН}
+
+%% \newcommand{\opponentThreeFio}         % Оппонент 3, ФИО
+%% {\fixme{Фамилия Имя Отчество}}
+%% \newcommand{\opponentThreeRegalia}     % Оппонент 3, регалии
+%% {\fixme{кандидат физико-математических наук}}
+%% \newcommand{\opponentThreeJobPlace}    % Оппонент 3, место работы
+%% {\fixme{Основное место работы c длинным длинным длинным длинным названием}}
+%% \newcommand{\opponentThreeJobPost}     % Оппонент 3, должность
+%% {\fixme{старший научный сотрудник}}
+
+\newcommand{\leadingOrganizationTitle} % Ведущая организация, дополнительные строки. Удалить, чтобы не отображать в автореферате
+{Геологический Институт РАН (ГИН РАН)}
+
+\newcommand{\defenseDate}              % Защита, дата
+{DD октября 2021~г.~в~XX часов}
+\newcommand{\defenseCouncilNumber}     % Защита, номер диссертационного совета
+{Д\,002.001.01}
+\newcommand{\defenseCouncilTitle}      % Защита, учреждение диссертационного совета
+{Институт физики Земли им. О. Шмидта Российской Академии Наук}
+\newcommand{\defenseCouncilAddress}    % Защита, адрес учреждение диссертационного совета
+{123242, г. Москва, Б. Грузинская ул., д. 10, стр. 1}
+\newcommand{\defenseCouncilPhone}      % Телефон для справок
+{+7~(0000)~00-00-00}
+
+\newcommand{\defenseSecretaryFio}      % Секретарь диссертационного совета, ФИО
+{Камзолкин Владимир Анатольевич}
+\newcommand{\defenseSecretaryRegalia}  % Секретарь диссертационного совета, регалии
+{к. г.-м. н.}         % Для сокращений есть ГОСТы, например: ГОСТ Р 7.0.12-2011 + http://base.garant.ru/179724/#block_30000
+
+\newcommand{\synopsisLibrary}          % Автореферат, название библиотеки
+{ИФЗ РАН}
+\newcommand{\synopsisDate}             % Автореферат, дата рассылки
+{\fixme{DD} июня \the\year~года}
+
+% To avoid conflict with beamer class use \providecommand
+\providecommand{\keywords}%            % Ключевые слова для метаданных PDF диссертации и автореферата
+{}
