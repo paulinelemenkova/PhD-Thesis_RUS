@@ -9,7 +9,7 @@ authors:
     given-names: Polina
     # orcid: "https://orcid.org/0000-0002-5759-1089"  # verify and uncomment
 license: CC-BY-4.0
-repository-code: "https://github.com/paulinelemenkova/PhD-Thesis_RUS"
+repository-code: "https://github.com/paulinelemenkova/latex-report-deep-sea-trenches-pacific"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.4885452
