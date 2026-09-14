@@ -1,27 +1,24 @@
-# Морфоструктурные особенности глубоководных желобов Тихого океана, проблема их происхождения
+# Morphostructural features of the deep-sea trenches in the Pacific Ocean, the problem of their origin
 
-**Morphostructural features of the deep-sea trenches in the Pacific Ocean, the problem of their origin**
-
-Исходный код LaTeX научного отчёта / LaTeX source of the scientific report.
-Автор / Author: **Полина Алексеевна Леменкова (Polina Lemenkova)**.
+LaTeX source of the scientific report by **Polina Lemenkova**.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4885452.svg)](https://doi.org/10.5281/zenodo.4885452)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 | | |
 |---|---|
-| Название / Title | Морфоструктурные особенности глубоководных желобов Тихого океана, проблема их происхождения |
-| Тип / Type | Научный отчёт / Report |
-| Место, год / Place, year | Москва / Moscow — 2021 |
-| Объём / Length | 268 с. / pp. |
-| Язык / Language | Русский / Russian |
+| Title | Morphostructural features of the deep-sea trenches in the Pacific Ocean, the problem of their origin |
+| Type | Report |
+| Place, year | Moscow, Russia — 2021 |
+| Length | 268 pp. |
+| Language | Russian |
 | DOI (Zenodo) | [10.5281/zenodo.4885452](https://doi.org/10.5281/zenodo.4885452) |
 | DOI (ResearchGate) | [10.13140/RG.2.2.18868.37762/1](https://doi.org/10.13140/RG.2.2.18868.37762) |
 | HAL | [hal-03246580](https://hal.science/hal-03246580) |
 | SSRN | [3858359](https://ssrn.com/abstract=3858359) |
 | LSN | [19147](https://www.lifescience.net/publications/19147/morphostructural-features-of-the-deep-sea-trenches/) |
 
-## Как цитировать / How to cite
+## How to cite
 
 ```bibtex
 @report{Lemenkova202115,
@@ -36,15 +33,15 @@
     year         = 2021}
 ```
 
-GitHub также показывает кнопку **«Cite this repository»** на основе файла
+GitHub also shows a **"Cite this repository"** button generated from
 [`CITATION.cff`](CITATION.cff).
 
-## Сборка / Building
+## Building
 
-Установка ПО и сборка PDF описаны в [Readme/Installation.md](Readme/Installation.md);
-сборка выполняется через `latexmk` / `make` (см. [Makefile](Makefile)).
+Software setup and the PDF build are described in
+[Readme/Installation.md](Readme/Installation.md); the build runs via
+`latexmk` / `make` (see [Makefile](Makefile)).
 
-## Лицензия / License
+## License
 
-CC BY 4.0. Оформление основано на открытом LaTeX-шаблоне (CC BY 4.0); список авторов
-шаблона и условия — в файле [LICENSE](LICENSE).
+MIT License &copy; 2021 Polina Lemenkova. See [LICENSE](LICENSE).

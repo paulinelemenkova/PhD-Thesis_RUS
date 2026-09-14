@@ -1,14 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this material, please cite the report below."
-title: >-
-  Морфоструктурные особенности глубоководных желобов Тихого океана,
-  проблема их происхождения (LaTeX source)
+title: "Morphostructural features of the deep-sea trenches in the Pacific Ocean, the problem of their origin (LaTeX source)"
 type: software
 authors:
   - family-names: Lemenkova
     given-names: Polina
     # orcid: "https://orcid.org/0000-0002-5759-1089"  # verify and uncomment
-license: CC-BY-4.0
+license: MIT
 repository-code: "https://github.com/paulinelemenkova/latex-report-deep-sea-trenches-pacific"
 identifiers:
   - type: doi
