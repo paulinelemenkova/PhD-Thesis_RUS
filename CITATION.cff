@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the report below."
+title: >-
+  Морфоструктурные особенности глубоководных желобов Тихого океана,
+  проблема их происхождения (LaTeX source)
+type: software
+authors:
+  - family-names: Lemenkova
+    given-names: Polina
+    # orcid: "https://orcid.org/0000-0002-5759-1089"  # verify and uncomment
+license: CC-BY-4.0
+repository-code: "https://github.com/paulinelemenkova/PhD-Thesis_RUS"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.4885452
+    description: Zenodo archive of the report
+preferred-citation:
+  type: report
+  title: >-
+    Morphostructural features of the deep-sea trenches in the Pacific Ocean,
+    the problem of their origin (Report)
+  authors:
+    - family-names: Lemenkova
+      given-names: Polina
+      # orcid: "https://orcid.org/0000-0002-5759-1089"  # verify and uncomment
+  year: 2021
+  month: 5
+  start: 1
+  end: 268
+  institution:
+    name: "Moscow, Russia"
+  doi: 10.5281/zenodo.4885452
+  url: "https://doi.org/10.5281/zenodo.4885452"
+  languages:
+    - rus
+  identifiers:
+    - type: doi
+      value: 10.13140/RG.2.2.18868.37762/1
+      description: ResearchGate
+    - type: other
+      value: "hal-03246580"
+      description: HAL
+    - type: other
+      value: "SSRN 3858359"
+      description: "SSRN (https://ssrn.com/abstract=3858359)"
+    - type: other
+      value: "LSN 19147"
+      description: "LifeScience.net (https://www.lifescience.net/publications/19147/)"
